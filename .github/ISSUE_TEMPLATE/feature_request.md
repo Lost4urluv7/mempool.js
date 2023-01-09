@@ -1,4 +1,4 @@
----
+.github/FUNDING.ymlhttps:/m.chaturbate.com/bettystails/?utm_source=push_notification&utm_medium=browser_push&utm_campaign=bettystails---
 name: Feature request
 about: Suggest an idea for this project
 title: ''
